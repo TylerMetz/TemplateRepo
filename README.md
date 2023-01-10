@@ -1,9 +1,9 @@
 # TemplateRepo
 ## Basic Layout
-All project files will be in src/code
-src/main.cpp compiles the main project
-t/main.cpp runs all tests
-t/test.cpp holds an example test using code.h
+All project files will be in src/code,
+src/main.cpp compiles the main project,
+t/main.cpp runs all tests,
+t/test.cpp holds an example test using code.h,
 ## Compiling from terminal
 The two bash scripts are app and tdd.
 To compile just the tests without main runnings you will execute ./tdd
