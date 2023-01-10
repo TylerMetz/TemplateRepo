@@ -6,7 +6,7 @@ t/main.cpp runs all tests,
 t/test.cpp holds an example test using code.h,
 ## Compiling from terminal
 The two bash scripts are app and tdd.
-To compile just the tests without main runnings you will execute ./tdd
+To compile just the tests without main runnings you will execute ./tdd,
 To compile main without the tests running execute ./app
 
 ## Script Permission
