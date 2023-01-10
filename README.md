@@ -11,4 +11,4 @@ To compile main without the tests running execute ./app
 
 ## Script Permission
 If those scripts do not run go into terminal in this directory and do
-"chmod +x <scriptName>.sh"
+"chmod +x scriptname.sh"
