@@ -1,7 +1,7 @@
 # Makefile
 SRC_DIR=./src
 CODE_DIR=$(SRC_DIR)/code
-OUT=example
+OUT=example #change here
 TEST_DIR=t
 
 test:

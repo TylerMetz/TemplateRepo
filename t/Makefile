@@ -10,7 +10,7 @@ SRC_DIRS=$(SRC_DIR)/code
 TEST_SRC_DIRS = $(TEST_DIR)
 
 # what to call the test binary
-TEST_TARGET=example
+TEST_TARGET=example #change here
 
 # where the cpputest library is located
 CPPUTEST_HOME=$(PROJECT_DIR)/cpputest

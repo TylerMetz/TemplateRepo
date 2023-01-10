@@ -12,3 +12,7 @@ To compile main without the tests running execute ./app
 ## Script Permission
 If those scripts do not run go into terminal in this directory and do
 "chmod +x <scriptName>.sh"
+
+## Proper Naming
+Currently the output executable is called "example." Hopefully you change this, I have marked everywhere you should change it with "change here."
+Hit "CMD+Shift+F" and enter change here to find all the instances and change them to what you would like the new executable to be called

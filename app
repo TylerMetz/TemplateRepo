@@ -1,3 +1,3 @@
 make main
-./example
+./example #change here
 make clean > /dev/null 2>&1
