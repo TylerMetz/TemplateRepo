@@ -1,4 +1,10 @@
 # TemplateRepo
+
+## Getting Started
+You must first. cd cpputest, then git `submodule init`, then `git submodule update`. Then execute then commands and about 500 tests should pass then you are ready to go.
+`autoreconf . -i`
+`./configure`
+`make tdd`
 ## Basic Layout
 All project files will be in src/code,
 src/main.cpp compiles the main project,
